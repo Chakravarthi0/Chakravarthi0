@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saran Chakravarthi/h1>
+<h1 align="center">Hi 👋, I'm Saran Chakravarthi </h1>
 <h3 align="center">An aspiring frontend web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chakravarthi0&label=Profile%20views&color=blueviolet&style=flat-square" alt="Saran Chakravarthi" /> </p>
  
