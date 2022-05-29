@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saran Chakravarthi/h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chakravarthi0&label=Profile%20views&color=blueviolet&style=flat-square" alt="Saran Chakravarthi" /> </p>
-
+ 
+ <p>
 - 🌱 I’m currently learning **JavaScript**
 - ⚛️ Exploring **ReactJs**
-- 👨‍💻 All of my projects are available at **[Chakravarth0](https://github.com/Chakravarthi0)**
+- 👨‍💻 All of my projects are available at **[Chakravarthi0](https://github.com/Chakravarthi0)**
 - 📝 I do write articles on **[dev.to](https://dev.to/saran_chakravarthi)**
+ </p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
