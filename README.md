@@ -6,8 +6,6 @@
  
 - ⚛️ Exploring **ReactJs**
  
-- 👨‍💻 All of my projects are available at **[Chakravarthi0](https://github.com/Chakravarthi0)**
- 
 - 📝 I write articles on **[dev.to](https://dev.to/saran_chakravarthi)**
 
 <p align="left">
